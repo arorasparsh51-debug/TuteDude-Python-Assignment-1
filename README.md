@@ -1,4 +1,4 @@
-# TuteDude-Python-Assignment-1
+# TuteDude-Python-Assignments
 assignment 1 python
 Task 1(main folder)
 you have to enter 2 numbers of your choice and the result will show you addition, subtraction ,multiplication and division of those 2 numbers
